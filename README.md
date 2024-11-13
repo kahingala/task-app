@@ -1,0 +1,1 @@
+Developed a dynamic task management mobile app using Android Studio and Kotlin, incorporating SQLite databases with the Room library, Kotlin Coroutines, RecyclerView, and ViewModel. The app allows users to add, delete, update, and view tasks, built with a modern and efficient architecture.
